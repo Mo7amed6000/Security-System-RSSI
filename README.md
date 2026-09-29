@@ -100,4 +100,5 @@ Voice recognition and face detection were listed as next steps, not implemented 
 
 ## License
 
-The ESP-IDF example header in `main/hello_world_main.c` marks that file as public domain / CC0. If you publish this as your own product, add a top-level `LICENSE` you are comfortable with and replace the default Wi-Fi credentials.
+This project is licensed under the MIT License.
+You are free to use, modify, and distribute this project, provided that the original copyright notice and license are retained.
